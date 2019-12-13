@@ -15,6 +15,7 @@ world and in doing so, you will have to jump over obstacles, defeat enemies
 and collect bonuses. The overall aim is to collect as many of these bonuses,
 which will accumulate to your overall score before finishing."
 
+
 # Resources
 
 https://opengameart.org/
